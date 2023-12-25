@@ -17,7 +17,7 @@ function App() {
             onChange={(e) => setTask(e.target.value)}
             type="text"
             id="inputBox"
-            placeholder="Add your text"
+            placeholder="Add your text.."
           />
           <button
             onClick={() => {
